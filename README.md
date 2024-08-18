@@ -10,8 +10,9 @@
   <img align="center" alt="Helo-P" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
   <img align="center" alt="Helo-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
   <img align="center" alt="Helo-H" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Helo-J" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
-  <img align="center" alt="Helo-PG" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+  <img align="center" alt="Helo-J" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Helo-PG" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
+
     
 </div>   
 
